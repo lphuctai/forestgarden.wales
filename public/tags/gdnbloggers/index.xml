@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GdnBloggers on Forest Garden Wales</title>
+    <link>https://www.forestgarden.wales/tags/gdnbloggers/</link>
+    <description>Recent content in GdnBloggers on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>helo@forestgarden.wales (Jake Rayson)</managingEditor>
+    <webMaster>helo@forestgarden.wales (Jake Rayson)</webMaster>
+    <copyright>Attribution-NonCommercial-ShareAlike 4.0 International</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 15:16:26 +0100</lastBuildDate><atom:link href="https://www.forestgarden.wales/tags/gdnbloggers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A forest garden is a way to garden</title>
+      <link>https://www.forestgarden.wales/blog/forest-garden-is-way-to-garden/</link>
+      <pubDate>Wed, 19 Sep 2018 15:16:26 +0100</pubDate>
+      <author>helo@forestgarden.wales (Jake Rayson)</author>
+      <guid>https://www.forestgarden.wales/blog/forest-garden-is-way-to-garden/</guid>
+      <description>I listened to the Margaret Roach podcast A Way to Garden, the episode entitled “Go ahead, we dare you: widen your plant palette”, with Andy Brand.</description>
+    </item>
+    
+    <item>
+      <title>I’ve had enough, it’s time to quit!</title>
+      <link>https://www.forestgarden.wales/blog/time-to-quit/</link>
+      <pubDate>Sun, 26 Aug 2018 11:33:27 +0100</pubDate>
+      <author>helo@forestgarden.wales (Jake Rayson)</author>
+      <guid>https://www.forestgarden.wales/blog/time-to-quit/</guid>
+      <description>For the past 3 years I’ve been leading a double life. By day, a jolly Forest Gardener.</description>
+    </item>
+    
+  </channel>
+</rss>
